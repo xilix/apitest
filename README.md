@@ -11,10 +11,3 @@ Just tring to show different way to use automatic test in a distribuited archite
 On test/apiTest.php change $serverUrl to whereever is pointing your server 
 
 app is just a simple simulation of a distributed application that is talking to all it's parts through an API. setApi & Co is to simulate the sistem runing on meanwhile the test is launched.
-<<<<<<< HEAD
-=======
-=======
-** API tst suite **
-
-Just tring to show different way to use automatic test in a distribuited architecture connected by an API
->>>>>>> b872ae620f1f400bc1b056736d5029e541751ff9
